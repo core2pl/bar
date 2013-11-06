@@ -1,0 +1,6 @@
+{
+    "name": "core2pl/bar",
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
